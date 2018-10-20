@@ -10,9 +10,14 @@
 `predict.py` pridiction 
 
 ## running
-train：python train.py
-
-predict: python predict.py
-
+train：
+  ```
+  python train.py
+  ```
+  
+predict:
+  ```
+  python predict.py
+  ```
 ## result as following
 ![image](https://raw.githubusercontent.com/zhyq/cws_lstm/master/cutsample/sample.jpg)
