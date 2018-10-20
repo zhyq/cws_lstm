@@ -3,15 +3,15 @@
 [![GitHub issues](https://img.shields.io/github/issues/zhyq/cws_lstm.svg)](https://github.com/zhyq/cws_lstm/issues)
 ![GitHub stars](https://img.shields.io/github/stars/zhyq/cws_lstm.svg)
 
-  基于tensorflow bi-lstm 实现基本的中文切词
+  tensorflow bi-lstm for Chinese sentence segment
 
-## 文件构成
-`train.py` 训练模型文件
-`predict.py` 预测文件
+## files
+`train.py` training 
+`predict.py` pridiction 
 
-## 运行
-训练：python train.py
-预测: python predict.py
+## running
+trian：python train.py
+pridict: python predict.py
 
-## 效果展示
+## result as following
 ![image](https://raw.githubusercontent.com/zhyq/cws_lstm/master/cutsample/sample.jpg)
